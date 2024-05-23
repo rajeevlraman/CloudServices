@@ -3,6 +3,7 @@
 <h2>📺 Azure AD now Entra ID</h2>
 <b>Microsoft Azure AD</b><br><br>
 Hey, The Cloud services are getting better and robust by the day. It seems to be the future for most small andmedium size business. It is cost effective and the maanagement of these services are easy and business can benefit from the redundancy features they offer. most of these offer trial subscriptions and also give a credit to use and learn these features, which i have made use of for my labs. . If you have not you should too.ill update the screenshots and process in time. <br><br>
+<img src="assets/devicon--azure.svg" alt="The Virtual Box" width="70" height="70"><br>
 
 ***Azure Active Directory (Azure AD):***
 Azure AD is Microsoft's cloud-based identity and access management service. It provides authentication and authorization services for users, devices, and applications, enabling centralized identity management across cloud and on-premises environments. Azure AD offers features such as single sign-on (SSO), multi-factor authentication (MFA), and role-based access control (RBAC).<br>
