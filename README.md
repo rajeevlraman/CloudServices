@@ -1,6 +1,7 @@
 <h1>Cloud Services <br/></h1>
+<h2> <img src="assets/azuread.png"alt="Azure AD" width="220" height="110">Azure AD now Entra ID <img src="assets/mentraid.png" alt="Entra ID" width="220" height="70"></h2>
+<br>
 
-<h2>📺 Azure AD now Entra ID</h2>
 <b>Microsoft Azure AD</b><br><br>
 Hey, The Cloud services are getting better and robust by the day. It seems to be the future for most small andmedium size business. It is cost effective and the maanagement of these services are easy and business can benefit from the redundancy features they offer. most of these offer trial subscriptions and also give a credit to use and learn these features, which i have made use of for my labs. . If you have not you should too.ill update the screenshots and process in time. <br><br>
 <img src="assets/devicon--azure.svg" alt="The Virtual Box" width="70" height="70"><br>
