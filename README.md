@@ -7,6 +7,7 @@ Hey, The Cloud services are getting better and robust by the day. It seems to be
 
 ***Azure Active Directory (Azure AD):***
 Azure AD is Microsoft's cloud-based identity and access management service. It provides authentication and authorization services for users, devices, and applications, enabling centralized identity management across cloud and on-premises environments. Azure AD offers features such as single sign-on (SSO), multi-factor authentication (MFA), and role-based access control (RBAC).<br>
+<img src="assets/mecm.png" alt="The Virtual Box" width="70" height="70"><br>
 
 ***Endpoint Manager Configuration Manager (MECM):***
 Formerly known as System Center Configuration Manager (SCCM), Microsoft Endpoint Manager Configuration Manager (MECM) is a comprehensive solution for managing and deploying devices and applications in on-premises, cloud, and hybrid environments. MECM provides tools for configuring, monitoring, and securing devices, as well as deploying software updates and patches.<br>
