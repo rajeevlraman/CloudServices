@@ -14,7 +14,7 @@ I'll update with screenshots and processes over time. Currently, there are signi
 
 <b>Cloud Services</b><br><br>
 Hey, The Cloud services are getting better and robust by the day. It seems to be the future for most small andmedium size business. It is cost effective and the maanagement of these services are easy and business can benefit from the redundancy features they offer. most of these offer trial subscriptions and also give a credit to use and learn these features, which i have made use of for my labs. . If you have not you should too.i'll update the screenshots and process in time. Right now there is a lot of changes hppenning in Microsoft and the transition is a not all straight forward at least for me. there are issues around licensing, as there are a ton of them and i am working with trial versions its lot harder. <br><br>
-<img src="assets/devicon--azure.svg" alt="The Virtual Box" width="70" height="70">The Entra Admin Centre <img src="assets/entraadmin.png" alt="The Entra admin centre"  width="270" height="90"><br>
+<img src="assets/devicon--azure.svg" alt="The Virtual Box" width="70" height="70">   The Entra Admin Centre <img src="assets/entraadmin.png" alt="The Entra admin centre"  width="270" height="70"><br>
 
 ***Entra ID  (Azure Active Directory (Azure AD))***<br>
 As we all know the renaming of the Azure AD to Entra ID, Ill be using Entra and Entra ID.
