@@ -1,5 +1,5 @@
 <h1>Cloud Services <br/></h1>
-<h2> <img src="assets/azuread.png"alt="Azure AD" width="220" height="80">Azure AD now Entra ID <img src="assets/mentraid.png" alt="Entra ID" width="220" height="70"></h2>
+<h2> <img src="assets/azuread.png"alt="Azure AD" width="220" height="80">Azure AD now Entra ID <img src="assets/entraid.png" alt="Entra ID" width="90" height="100"></h2>
 <br>
 
 ## Cloud Services
