@@ -38,6 +38,7 @@ The Entra Admin Center is the centralized management console for all Entra servi
 To explore Microsoft Entra and start managing your organization's identities and access, visit the [Microsoft Entra Admin Center](https://entra.microsoft.com).
 
 ![Entra Admin Center](https://via.placeholder.com/800x400.png?text=Entra+Admin+Center+Dashboard)
-
+<!--
+<img align="center" src="https://camo.githubusercontent.com/7226367204999fa5bdbe824372de69f124e0d70c067396de494b3d70a3271d39/68747470733a2f2f692e696d6775722e636f6d2f6f46385875544a2e706e67" /><br/>
 ---
-*Note: This document provides a high-level overview. For detailed documentation and support, refer to the official Microsoft Entra resources.*
+-->
