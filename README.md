@@ -36,7 +36,7 @@ Cloud services refer to computing resources (like servers, storage, databases, n
 Cloud services have revolutionized IT infrastructure by offering flexible, scalable, and cost-effective solutions for businesses of all sizes. Understanding the pros and cons helps organizations make informed decisions about adopting cloud technologies.<br><br>
 
 
-<img src="assets/devicon--azure.svg" alt="The Virtual Box" width="70" height="70">   The Entra Admin Centre <img src="assets/mentraadmin.png" alt="The Entra admin centre"  width="270" height="70"><br><br>
+<img src="assets/devicon--azure.svg" alt="The Virtual Box" width="70" height="70">   The Azure AD Admin Centre <img src="assets/mentraadmin.png" alt="The Entra admin centre"  width="270" height="70"><br><br>
 
 ***Entra ID  (Azure Active Directory (Azure AD))***<br>
 As we all know the renaming of the Azure AD to Entra ID, Ill be using Entra and Entra ID.
