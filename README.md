@@ -51,7 +51,7 @@ Formerly known as System Center Configuration Manager (SCCM), Microsoft Endpoint
 ***Microsoft 365 (M365) E3***<br> is a robust subscription plan designed for businesses and enterprises, offering a comprehensive suite of productivity and collaboration tools. It includes access to essential Office applications like Word, Excel, PowerPoint, and Outlook, providing users with powerful tools for document creation, data analysis, presentations, and email management. M365 E3 also offers advanced features such as enterprise-grade email hosting with Exchange Online, enabling businesses to communicate effectively and manage schedules with ease. Additionally, it includes cloud storage with OneDrive for Business, allowing users to securely store, access, and share files from anywhere. With built-in security and compliance features, M365 E3 helps businesses protect sensitive data, comply with regulations, and safeguard against cybersecurity threats. Its flexible licensing model and scalable solutions make it an ideal choice for businesses looking to enhance productivity, collaboration, and security across their organization.<br>
 
 ## Labs on Entra
-- [PIM - Privileged Identity Management lab](https://github.com/rajeevlraman/Microsoft_Enterprise_mobility_and_security)<br>
+#  [PIM - Privileged Identity Management lab](https://github.com/rajeevlraman/Microsoft_Enterprise_mobility_and_security)<br>
 
 <img align="center" src="https://i.imgur.com/lVqeRdo.png" /><br><br>
 <b>Microsoft Entra ID</b><br><br>
